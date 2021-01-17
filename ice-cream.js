@@ -7,3 +7,5 @@ console.log(iceCreamFlavours);
 console.log(iceCreamFlavours[0]);
 
 console.log(iceCreamFlavours[3]);
+
+console.log(iceCreamFlavours.length);
